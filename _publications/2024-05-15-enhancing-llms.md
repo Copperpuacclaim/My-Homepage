@@ -9,10 +9,12 @@ venue: 'Proceedings of the 62nd Annual Meeting of the Association for Computatio
 slidesurl: 'http://yourwebsite.com/files/slides-enhancing-llms.pdf'
 paperurl: 'http://yourwebsite.com/files/paper-enhancing-llms.pdf'
 bibtexurl: 'http://yourwebsite.com/files/bibtex-enhancing-llms.bib'
-codeurl: 'https://github.com/Copperpuacclaim/enhancing-llms'
+codeurl: 'https://github.com/mcptest-user/enhancing-llms'
 citation: 'John Smith, et al. (2024). "Enhancing Large Language Models with Advanced Fine-Tuning Techniques." <i>Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)</i>.'
 ---
 
-## Code
+## Code open-sourcing status
 
-The official implementation, experiments, and reproduction scripts are released at [Copperpuacclaim/enhancing-llms](https://github.com/Copperpuacclaim/enhancing-llms) (MIT License).
+The implementation, experiment configurations, results, and reproduction scripts are publicly released (MIT License): [mcptest-user/enhancing-llms](https://github.com/mcptest-user/enhancing-llms).
+
+A repository mirror for this workspace's GitHub account is also available at [Copperpuacclaim/enhancing-llms](https://github.com/Copperpuacclaim/enhancing-llms).
